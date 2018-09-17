@@ -35,10 +35,3 @@ angular.module('todHistory',['servoy'])
 		}
 	}
 })
-.run(function($rootScope,$services) {
-	var scope = $services.getServiceScope('todHistory')
-	scope.$watch('model', function(newvalue,oldvalue) {
-	// handle state changes
-		//console.log(newvalue)
-}, true);
-})

@@ -1,12 +1,9 @@
 {
-	"name": "tod-history",
+	"name": "todHistory",
 	"displayName": "history",
 	"version": 1,
- 	"definition": "tod/history/history.js",
+ 	"definition": "todngservices/history/history.js",
 	"libraries": [],
-	"model":
-	{
- 	},
  	"api":
  	{
 	   	"pushState": 

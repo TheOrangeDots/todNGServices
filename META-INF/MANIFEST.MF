@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bundle-SymbolicName: todngservices__
+Bundle-SymbolicName: todngservices
 Bundle-Name: TOD NG Services
 Bundle-Version: 1.0.0
 Package-Type: Web-Service
